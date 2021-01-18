@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "news-feed-alert-client-side-solution",
+    "id": "0a10e89d-21f6-41a5-9c65-0a2f66a6dd02",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/news-feed-alert.sppkg"
+  }
+}
